@@ -1,6 +1,14 @@
-# dfir-tools
-DFIR Tools
+# DFIR Tools
 
 Bulk Extractor https://github.com/simsong/bulk_extractor
 
 Plaso https://github.com/log2timeline/plaso
+
+Python
+
+Sleuthkit
+
+SysInternals
+
+Volatility
+
