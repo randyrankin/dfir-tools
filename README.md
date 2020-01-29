@@ -12,3 +12,4 @@ SysInternals
 
 Volatility
 
+Access Data FTK Imager https://accessdata.com/product-download/ftk-imager-version-4-2-1
