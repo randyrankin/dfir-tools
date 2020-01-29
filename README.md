@@ -1,10 +1,17 @@
 # DFIR Tools
 
-Bulk Extractor https://github.com/simsong/bulk_extractor
+Collection
+[Access Data FTK Imager][https://accessdata.com/product-download/ftk-imager-version-4-2-1]
 
-Plaso https://github.com/log2timeline/plaso
+Disk Analysis
+[Bulk Extractor][https://github.com/simsong/bulk_extractor]
 
-Python
+Memory Analysis
+
+
+
+[Plaso][https://github.com/log2timeline/plaso]
+
 
 Sleuthkit
 
@@ -12,7 +19,4 @@ SysInternals
 
 Volatility
 
-[Access Data FTK Imager][1]
 
-
-[1]: https://accessdata.com/product-download/ftk-imager-version-4-2-1
