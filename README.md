@@ -1,4 +1,4 @@
-# DFIR Tools 👌
+## DFIR Tools
 
 - [Access Data FTK Imager](https://accessdata.com/product-download/ftk-imager-version-4-2-1)
 - Access Data FTK Imager CLI
