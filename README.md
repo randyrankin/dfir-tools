@@ -1,12 +1,12 @@
-# 🚀 DFIR Tools and Resources  :fire: 
-A collection of resources for Incident Response and Digital Forensics  
+# DFIR Tools and Resources
+A collection of resources for Incident Response and Digital Forensics 🚀  
 
 ### Collection
 - [Access Data FTK Imager](https://accessdata.com/product-download/ftk-imager-version-4-2-1)
 
 ### Analysis 
 
-- [KAPE](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape)
+- :fire: [KAPE](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape)
 - [Rekall Forensics](http://www.rekall-forensic.com/)
 - [Windows SysInternals](https://docs.microsoft.com/en-us/sysinternals/)
 - [Regripper](https://github.com/keydet89/RegRipper2.8)
